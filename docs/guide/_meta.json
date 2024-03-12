@@ -1,3 +1,18 @@
 [
-    "index"
+    "index",
+    {
+        "type": "dir",
+        "name": "01-develop",
+        "label": "Vue的发展历程"
+    },
+    {
+        "type": "dir",
+        "name": "02-framework",
+        "label": "Vapor 架构篇"
+    },
+    {
+        "type": "dir",
+        "name": "03-achieve",
+        "label": "Vapor 实现篇"
+    }
 ]

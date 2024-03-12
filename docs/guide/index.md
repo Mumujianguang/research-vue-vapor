@@ -1,8 +1,6 @@
 ---
-title: 我的主页
+title: 开篇
 ---
 
 # 开篇
 
-
-## vapor mode - 蒸汽模式
